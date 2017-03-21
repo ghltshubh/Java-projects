@@ -1,0 +1,9 @@
+Vertices: 6
+Names: A, B, C, D, E, F
+Edges:
+inf  6   5   1   inf   inf
+6    inf inf 5   3     inf
+5    inf inf 5   inf   2
+1    5   5   inf 6     4
+inf  3   inf 6   inf   5
+inf  inf 2   4   5     inf

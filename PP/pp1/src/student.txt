@@ -1,0 +1,10 @@
+Carlos 3.1
+Bruno 2.4
+Nemo 3.2
+Blacky 3.4
+Newsy 3.75
+James 3.7
+Rebacca 3.8
+Whilton 3.33
+Shramik 3.5
+Vaisham 3.82
